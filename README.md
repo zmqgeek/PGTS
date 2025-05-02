@@ -3,6 +3,7 @@ pattern-guided tactic search
 
 ## 📑 Contents
 
+```bash
 PGTS/
 ├── Method/                 # PGTS code
 ├── Results/                # PGTS results
