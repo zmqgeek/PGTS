@@ -1,8 +1,10 @@
 # PGTS
 pattern-guided tactic search
 
-## 📑 目录
+## 📑 Contents
 
-- [Method]
-- [Results](#功能特性)
-- [study_data](#项目目录结构)
+PGTS/
+├── Method/                 # PGTS code
+├── Results/                # PGTS results
+├── study_data/             # Empirical study origin data
+
