@@ -1,0 +1,49 @@
+# 位于分支 main
+# 尚未暂存以备提交的变更：
+#   （使用 "git add <file>..." 更新要提交的内容）
+#   （使用 "git checkout -- <file>..." 丢弃工作区的改动）
+#
+#	修改：      Passport/agent.py
+#	修改：      Passport/common_args.py
+#	修改：      coq_projects/functional-algebra/Makefile
+#	修改：      coq_projects/makefile
+#	修改：      coq_projects/pigeons/Makefile
+#	修改：      eval_env.py
+#	修改：      install.sh
+#	修改：      serapi.py
+#	修改：      swarm/evaluate-file-parallel.sh
+#	修改：      swarm/evaluate-proj-array-item.sbatch
+#	修改：      swarm/evaluate-proj-parallel.sh
+#	修改：      swarm/evaluate-proj.sh
+#	修改：      swarm/evaluate-test.sh
+#	修改：      swarm/evaluate_test_worker.py
+#	修改：      swarm/evaluation-worker.py
+#	修改：      swarm/extract-steps.sh
+#	修改：      swarm/find-missing-outputs-csv.sh
+#	修改：      swarm/find-missing-outputs.sh
+#	修改：      swarm/paper_test.sh
+#	修改：      swarm/prelude.sh
+#	修改：      swarm/rerun-missing-files.py
+#	修改：      swarm/rerun-missing-files.sh
+#	修改：      swarm/rerun-missing-proofs.sh
+#	修改：      swarm/save-run.sh
+#	修改：      swarm/sbatch-retry.sh
+#	修改：      swarm/show_worker_progress.py
+#
+# 未跟踪的文件:
+#   （使用 "git add <file>..." 以包含要提交的内容）
+#
+#	._data
+#	ASTactic/
+#	Passport/#common_args.py#
+#	Passport/names/subwords.json
+#	TacTok/
+#	coq-serapi/_build/
+#	coq-serapi/coq-serapi.install
+#	gallina_astactic.py
+#	projs_split.json
+#	search_tree.py
+#	swarm/evaluate-file.sh
+#	swarm/evaluate-file.sh~
+#	swarm/test-dir.sh~
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）

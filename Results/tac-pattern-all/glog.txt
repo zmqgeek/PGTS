@@ -1,0 +1,120 @@
+commit 18d4396b88eaad78e90e1a925496fdf14b8d797e
+Author: efirst <efirst@umass.edu>
+Date:   Tue Jan 9 17:41:39 2024 -0500
+
+    Update README.md with link to proof steps
+
+commit 407b39f56b245077c276688f260de94b14c6a1c8
+Author: efirst <efirst@umass.edu>
+Date:   Mon May 22 11:53:48 2023 -0400
+
+    Update README.md with link to pretrained models
+
+commit c66ba734f0e06284cf6f07d86df95dc1bd7a8d84
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Tue Apr 26 12:51:28 2022 -0400
+
+    Add newline to keep image from floating left
+
+commit cdbdcaba5fec62e02101a4a04260c833fd22a271
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Tue Apr 26 12:51:05 2022 -0400
+
+    Add passport logo to readme
+
+commit 837e35bc5e9f41e9ec2c540f042bfb0f9e2f3a6e
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Thu Apr 21 13:58:24 2022 -0400
+
+    Update readme
+
+commit 0f8c3b3d01b2b251c20e42220b2babf2156df7aa
+Author: efirst <efirst@g.hmc.edu>
+Date:   Thu Apr 21 11:47:35 2022 -0400
+
+    Update README.md
+
+commit 02255f7e5574c9bb5536ac5ce1194507d09b4213
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Wed Apr 20 09:51:41 2022 -0400
+
+    Change references to TacTok path to Passport in source
+
+commit 62289d7b6939b701beff614549abf82b7c4ce162
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Wed Apr 20 09:45:16 2022 -0400
+
+    change references to coq_gym in readme to passport
+
+commit 708187f6ec6be0bb1a78c545381482ebdcef3128
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Wed Apr 20 09:44:16 2022 -0400
+
+    Rename coq_gym.yml to passport.yml
+
+commit d3b1f7181cc99af4eb13e8eb2de9e51c6b27955b
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Wed Apr 20 09:42:16 2022 -0400
+
+    Change instances of "TacTok" to "Passport". Remove references to paper
+    and vm for now
+
+commit 76f3e60af20d45178400ae271ef8ef22a268c80d
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Wed Apr 20 09:41:58 2022 -0400
+
+    Rename inner TacTok folder to Passport
+
+commit 69645cf69ffe9836363a2a966cf365e8bcfbadc3
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Wed Apr 20 09:35:47 2022 -0400
+
+    Fix license with permission of original authors
+
+commit b550d457d84ebdeede564a3c0ea24de61bac81ef
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Thu Mar 17 10:12:31 2022 -0400
+
+    Better early endings for sequential evaluations
+
+commit feb3aca221a9dd56084cfc35f3d7bfcfcd19d8b9
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Thu Mar 17 10:11:45 2022 -0400
+
+    Add ability to estimate final result from partial result based on a reference completed result
+
+commit be85fc4dc6a6fe6114c6ec49dd4a2c51078d281e
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Thu Mar 17 10:10:46 2022 -0400
+
+    Remove unecessary imports
+
+commit 82f301bd0580fcfb649cf5872d6ee8b97dafc0c3
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Thu Mar 17 10:10:04 2022 -0400
+
+    Don't require the same number of theorems for combining results
+
+commit 253917c4b636f58ae7128b84747d88d73666ad42
+Author: Alex Sanchez-Stern <alex.sanchezstern@gmail.com>
+Date:   Fri Feb 25 20:06:43 2022 +0000
+
+    Add options to import and export step orderings
+
+commit 3310a684307ba27c8d9363653793cbae51f82595
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Wed Mar 2 14:10:04 2022 -0500
+
+    Add new script for comparing results
+
+commit 600211bd065c651f62455ff84884f8161e2498c6
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Wed Mar 2 14:07:58 2022 -0500
+
+    Fix some typos in proof_steps_by_file
+
+commit 3e4626370dcc3a466448d6b991fc4aa96e9037ee
+Author: Alex Sanchez-Stern <sanchezstern@cs.umass.edu>
+Date:   Fri Feb 18 21:13:42 2022 -0500
+
+    Add script for more comparing a result in progress to a reference result
