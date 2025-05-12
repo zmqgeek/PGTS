@@ -4,7 +4,7 @@ The following are the directions for installation and use of PGTS.
 
 ## 1. Installation
 
-Passport operates within the [CoqGym](https://github.com/princeton-vl/CoqGym) learning environment and so modifies their code. 
+PGTS operates within the [CoqGym](https://github.com/princeton-vl/CoqGym) learning environment and so modifies their code. 
 
 ### Dependencies
 * [OPAM](https://opam.ocaml.org/)
